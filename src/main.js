@@ -19,7 +19,7 @@ const router = new VueRouter({
   routes
 })
 */
-kjkjkjjj
+
 FastClick.attach(document.body)
 
 Vue.config.productionTip = false
